@@ -1,5 +1,5 @@
 # Phonepe
-PhonePe Pulse Data Analytics is an interactive dashboard analyzing India's digital payment trends using PhonePe's Pulse data. Built with Python, Streamlit, and Plotly, it offers insights into transactions, user behavior, and geographical trends, with data preprocessing for state names and pincodes. Powered by PostgreSQL.
+PhonePe Pulse Data Analytics is an interactive dashboard analyzing India's digital payment trends using PhonePe's Pulse data. This is a full-fledged data automation and visualization project. It combines ETL (Extract, Transform, Load), interactive dashboarding, and data storytelling into one tool. Built with Python, Streamlit, and Plotly, it offers insights into transactions, user behavior, and geographical trends, with data preprocessing for state names and pincodes. Powered by PostgreSQL.
 # PhonePe Pulse Data Analytics
 
 ## Overview
